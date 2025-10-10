@@ -14,4 +14,4 @@ A simple JavaScript web app that calculates Body Mass Index (BMI) based on user 
 - Input validation to ensure correct values are entered
 
 ## 🚀 Live Demo
-[View Project Here](https://saniya-dalvi.github.io/bmi-calculator/)
+[View Project Here](https://saniya-dalvi.github.io/BMI_Calculator/)
